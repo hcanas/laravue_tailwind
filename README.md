@@ -3,7 +3,7 @@
 This is my personal Laravel + Vue 3 + TailwindCSS boilerplate. 
 
 I've done minor changes to form radio and checkbox to allow customizing colors.
-The main theme colors are divided into 4 &mdash; primary, secondary, succes, and danger.
+The main theme colors are divided into four &mdash; primary, secondary, success, and danger.
 These can be changed inside tailwind config.
 
 More components will be added as I create more projects.
